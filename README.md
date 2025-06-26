@@ -39,12 +39,11 @@ My personal portfolio <a href="https://afzalportfolio.vercel.app/" target="_blan
 
 This project was built using these technologies:
 
-- React.js
-- Node.js
-- Express.js
+- HTML5
 - CSS3
-- VsCode
-- Vercel
+- JavaScript
+- Visual Studio Code
+- Vercel (for deployment)
 
 ## Features
 
